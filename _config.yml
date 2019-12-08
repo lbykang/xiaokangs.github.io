@@ -1,13 +1,13 @@
 # Site settings
-title: Jessehzx Blog
-SEOTitle: Jessehzx Blog
+title: 兔子君
+SEOTitle: 兔子君
 header-img: img/home-bg.jpg
-email: jessehuangzx@gmail.com
-description: "Determined to become the architect of the back-end developer."
-keyword: "Jessehzx, hzx Blog, 振兴的博客, huangzhenxing, 黄振兴, Java, 后台开发, 后端架构"
-url: "http://jessehzx.github.io"          # your host, for absolute URL
+email: 1270520087@qq.com
+description: "兔子君--xiaokang"
+keyword: "兔子君, xiaokang, Java, 后台开发, 后端架构"
+url: "http://xiaokangs.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/jessehzx/jessehzx.github.io.git" # you code repository
+github_repo: "https://github.com/lbykang/xiaokangs.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/avatar-me.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-github_username:    jessehzx
-weibo_username:     lonesomeman
-zhihu_username:     jessehzx
+github_username:    lbykang
+weibo_username:     贰六
+zhihu_username:     小康康kangs
 #facebook_username:  xxx
 #jianshu_username:   xxx
-twitter_username:   jessehzx
+twitter_username:   小康康kangs
 
 
 
