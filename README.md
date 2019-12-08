@@ -1,6 +1,6 @@
-## jessehzx的个人博客
+## xiaokangs的个人博客
 
-基于jekyll的个人博客站点[http://jessehzx.top](http://jessehzx.top)，主题风格本着"simple is beautiful"的原则。
+基于jekyll的个人博客站点[http://lbyan.cn](http://lbyan.cn)，主题风格本着"simple is beautiful"的原则。
 
 ## 关于我
 
@@ -8,17 +8,17 @@
 
 ## 联系我
 
-* Github: [jessehzx](https://github.com/jessehzx)
+* Github: [lbykang](https://github.com/lbykang)
 
-* Twitter: [jessehzx](https://twitter.com/jessehzx)
+* Twitter: [lbykang](https://twitter.com/lbykang)
 
-* 微博: [lonesomeman](http://weibo.com/lonesomeman)
+* 微博: [lbykang](http://weibo.com/lbykang)
 
-* 知乎: [jessehzx](http://www.zhihu.com/people/jessehzx)
+* 知乎: [lbykang](http://www.zhihu.com/people/lbykang)
 
 
 ## 致谢
 
-1. 这个模板是从这里 [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io) fork 的, 感谢他提供详细的搭建教程。 
+1. 这个模板是从这里 [jessehzx](https://github.com/jessehzx/jessehzx.github.io) fork 的, 感谢他提供详细的搭建教程。 
 2. 感谢 Jekyll、Github Pages 以及 Bootstrap。
 
